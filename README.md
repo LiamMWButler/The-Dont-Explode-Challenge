@@ -2,7 +2,7 @@
 
 
 
-[![]( https://cf.way2muchnoise.eu/versions/404773.svg)](https://www.curseforge.com/minecraft/mc-mods/the-dont-explode-challenge) [![](http://cf.way2muchnoise.eu/full_the-dont-explode-challenge_downloads.svg)](https://www.curseforge.com/minecraft/mc-mods/the-dont-explode-challenge) [![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://GitHub.com/Naereen/StrapDown.js/graphs/commit-activity)
+[![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://GitHub.com/Naereen/StrapDown.js/graphs/commit-activity)
 
 
 
