@@ -52,6 +52,12 @@ I had a lot of fun making this and for my first experience programming with Mine
 
 ```
 ```
-    
+
+## Public Link:
+https://www.curseforge.com/minecraft/mc-mods/the-dont-explode-challenge
+
+```
+```
+
 ## License
 [MIT](https://choosealicense.com/licenses/mit/)
